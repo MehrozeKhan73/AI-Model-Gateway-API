@@ -1,0 +1,24 @@
+package org.unreal.modelrouter;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.context.properties.ConfigurationPropertiesScan;
+import org.springframework.scheduling.annotation.EnableAsync;
+import org.springframework.scheduling.annotation.EnableScheduling;
+
+@SpringBootApplication
+@EnableAsync
+@EnableScheduling
+@ConfigurationPropertiesScan({
+    "org.unreal.modelrouter.config",
+    "org.unreal.modelrouter.monitor.callhistory.config"
+})
+public class ModelRouterApplication {
+    /** Private constructor to prevent instantiation. */
+    private ModelRouterApplication() {}
+
+    public static void main(final String[] args) {
+        SpringApplication.run(ModelRouterApplication.class, args);
+    }
+
+}
