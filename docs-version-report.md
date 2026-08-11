@@ -5,10 +5,11 @@
 - 总文档数: 152
 - 近7天变更: 8
 - 版本文件: /home/runner/work/AI-Model-Gateway-API/AI-Model-Gateway-API/docs/docs-versions.json
-- 最后扫描: 2026-08-10 03:45:02
+- 最后扫描: 2026-08-11 03:27:48
 
 ## 最近变更
 
+- **MODIFIED**: docs-version-report.md (1.0.92 → 1.0.93) - 2026-08-11
 - **MODIFIED**: docs-version-report.md (1.0.91 → 1.0.92) - 2026-08-10
 - **MODIFIED**: docs-version-report.md (1.0.90 → 1.0.91) - 2026-08-09
 - **MODIFIED**: docs-version-report.md (1.0.89 → 1.0.90) - 2026-08-08
@@ -16,7 +17,6 @@
 - **MODIFIED**: docs-version-report.md (1.0.87 → 1.0.88) - 2026-08-06
 - **MODIFIED**: docs-version-report.md (1.0.86 → 1.0.87) - 2026-08-05
 - **MODIFIED**: docs-version-report.md (1.0.85 → 1.0.86) - 2026-08-04
-- **MODIFIED**: docs-version-report.md (1.0.84 → 1.0.85) - 2026-08-03
 
 ## 过期文档 (30天未更新)
 
@@ -82,6 +82,7 @@
 - docs/zh/getting-started/installation.md (版本: 1.0.4, 最后更新: 2026-06-03)
 - docs/zh/monitoring/alert_rules_guide.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/monitoring/alerts.md (版本: 1.0.2, 最后更新: 2026-06-03)
+- docs/zh/monitoring/configuration.md (版本: 1.0.4, 最后更新: 2026-07-11)
 - docs/zh/monitoring/dashboards.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/monitoring/index.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/monitoring/metrics.md (版本: 1.0.2, 最后更新: 2026-06-03)
@@ -146,6 +147,7 @@
 - docs/zh/configuration/state-persistence.md (版本: 1.0.1, 最后更新: 2026-06-10)
 - docs/zh/api-reference/error-codes.md (版本: 1.0.1, 最后更新: 2026-07-01)
 - repository-description.md (版本: 1.0.0, 最后更新: 2026-06-29)
+- merge-log-2026-07-10.md (版本: 1.0.0, 最后更新: 2026-07-11)
 
 ## 依赖关系分析
 
@@ -636,7 +638,7 @@
 
 ## 所有文档版本
 
-- **docs-version-report.md**: v1.0.92 - 2026-08-10 (b6fe6d77)
+- **docs-version-report.md**: v1.0.93 - 2026-08-11 (8528da98)
 - **docs/zh/reference/roadmap.md**: v1.0.8 - 2026-07-18 (9a462239)
 - **docs/zh/configuration/validation-rules.md**: v1.0.3 - 2026-07-18 (9a462239)
 - **docs/en/reference/roadmap.md**: v1.0.8 - 2026-07-18 (9a462239)
