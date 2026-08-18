@@ -5,10 +5,11 @@
 - 总文档数: 152
 - 近7天变更: 8
 - 版本文件: /home/runner/work/AI-Model-Gateway-API/AI-Model-Gateway-API/docs/docs-versions.json
-- 最后扫描: 2026-08-17 02:52:50
+- 最后扫描: 2026-08-18 02:49:15
 
 ## 最近变更
 
+- **MODIFIED**: docs-version-report.md (1.0.99 → 1.0.100) - 2026-08-18
 - **MODIFIED**: docs-version-report.md (1.0.98 → 1.0.99) - 2026-08-17
 - **MODIFIED**: docs-version-report.md (1.0.97 → 1.0.98) - 2026-08-16
 - **MODIFIED**: docs-version-report.md (1.0.96 → 1.0.97) - 2026-08-15
@@ -16,10 +17,10 @@
 - **MODIFIED**: docs-version-report.md (1.0.94 → 1.0.95) - 2026-08-13
 - **MODIFIED**: docs-version-report.md (1.0.93 → 1.0.94) - 2026-08-12
 - **MODIFIED**: docs-version-report.md (1.0.92 → 1.0.93) - 2026-08-11
-- **MODIFIED**: docs-version-report.md (1.0.91 → 1.0.92) - 2026-08-10
 
 ## 过期文档 (30天未更新)
 
+- README.md (版本: 1.0.20, 最后更新: 2026-07-18)
 - docs/README.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/en/api-reference/index.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/en/api-reference/management-api.md (版本: 1.0.4, 最后更新: 2026-07-01)
@@ -60,6 +61,7 @@
 - docs/en/reference/faq.md (版本: 1.0.4, 最后更新: 2026-07-16)
 - docs/en/reference/glossary.md (版本: 1.0.3, 最后更新: 2026-07-16)
 - docs/en/reference/index.md (版本: 1.0.3, 最后更新: 2026-07-16)
+- docs/en/reference/roadmap.md (版本: 1.0.8, 最后更新: 2026-07-18)
 - docs/en/troubleshooting/common-issues.md (版本: 1.0.4, 最后更新: 2026-06-03)
 - docs/en/troubleshooting/debugging.md (版本: 1.0.3, 最后更新: 2026-06-03)
 - docs/en/troubleshooting/index.md (版本: 1.0.2, 最后更新: 2026-06-03)
@@ -104,6 +106,7 @@
 - docs/zh/reference/faq.md (版本: 1.0.5, 最后更新: 2026-06-03)
 - docs/zh/reference/glossary.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/reference/index.md (版本: 1.0.3, 最后更新: 2026-06-03)
+- docs/zh/reference/roadmap.md (版本: 1.0.8, 最后更新: 2026-07-18)
 - docs/zh/troubleshooting/common-issues.md (版本: 1.0.3, 最后更新: 2026-06-03)
 - docs/zh/troubleshooting/debugging.md (版本: 1.0.3, 最后更新: 2026-06-03)
 - docs/zh/troubleshooting/index.md (版本: 1.0.2, 最后更新: 2026-06-03)
@@ -146,6 +149,7 @@
 - docs/zh/configuration/version-management.md (版本: 1.0.2, 最后更新: 2026-06-10)
 - docs/en/configuration/jwt-persistence.md (版本: 1.0.1, 最后更新: 2026-06-10)
 - docs/en/deployment/jwt-persistence-deployment-checklist.md (版本: 1.0.1, 最后更新: 2026-06-11)
+- README-ZH.md (版本: 1.0.12, 最后更新: 2026-07-18)
 - docs/zh/reference/adapter-updates.md (版本: 1.0.1, 最后更新: 2026-06-03)
 - QWEN.md (版本: 1.0.4, 最后更新: 2026-07-14)
 - docs/en/deployment/docker-optimized.md (版本: 1.0.2, 最后更新: 2026-07-16)
@@ -153,6 +157,7 @@
 - docs/en/reference/adapter-updates.md (版本: 1.0.1, 最后更新: 2026-06-11)
 - docs/en/security/blacklist-management.md (版本: 1.0.2, 最后更新: 2026-07-16)
 - docs/zh/configuration/jwt-persistence.md (版本: 1.0.1, 最后更新: 2026-06-03)
+- docs/zh/configuration/validation-rules.md (版本: 1.0.3, 最后更新: 2026-07-18)
 - docs/zh/deployment/docker-optimized.md (版本: 1.0.1, 最后更新: 2026-06-03)
 - docs/zh/deployment/jwt-persistence-deployment-checklist.md (版本: 1.0.1, 最后更新: 2026-06-03)
 - docs/zh/security/audit-log-management.md (版本: 1.0.1, 最后更新: 2026-06-03)
@@ -656,7 +661,7 @@
 
 ## 所有文档版本
 
-- **docs-version-report.md**: v1.0.99 - 2026-08-17 (3c36eed5)
+- **docs-version-report.md**: v1.0.100 - 2026-08-18 (6ee6f5c1)
 - **docs/zh/reference/roadmap.md**: v1.0.8 - 2026-07-18 (9a462239)
 - **docs/zh/configuration/validation-rules.md**: v1.0.3 - 2026-07-18 (9a462239)
 - **docs/en/reference/roadmap.md**: v1.0.8 - 2026-07-18 (9a462239)
