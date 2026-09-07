@@ -1936,10 +1936,10 @@
     },
     "docs-version-report.md": {
       "FilePath": "docs-version-report.md",
-      "Version": "1.0.119",
-      "LastModified": "2026-09-06T06:41:59.866456",
-      "ContentHash": "795de63bd948f08e",
-      "GitCommit": "2f02e46d",
+      "Version": "1.0.120",
+      "LastModified": "2026-09-07T06:50:34.193945",
+      "ContentHash": "069f7de14566258d",
+      "GitCommit": "02f320e1",
       "Author": "GitHub Action",
       "ChangeSummary": "",
       "Dependencies": []
@@ -2006,134 +2006,6 @@
     }
   },
   "changes": [
-    {
-      "FilePath": "docs-version-report.md",
-      "OldVersion": "1.0.36",
-      "NewVersion": "1.0.37",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-08T06:44:05.402118",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs-version-report.md",
-      "OldVersion": "1.0.37",
-      "NewVersion": "1.0.38",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:47.952056",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/development/index.md",
-      "OldVersion": "1.0.2",
-      "NewVersion": "1.0.3",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.033489",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/development/tracing-integration.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.039464",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/tracing/operations-guide.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.115585",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/tracing/performance-tuning.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.117656",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/tracing/quickstart.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.119794",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/tracing/troubleshooting.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.121733",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/tracing/usage-guide.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.123800",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/development/index.md",
-      "OldVersion": "1.0.3",
-      "NewVersion": "1.0.4",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.215021",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/development/tracing-integration.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.224739",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/tracing/operations-guide.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.303725",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/tracing/performance-tuning.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.305775",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/tracing/quickstart.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.307863",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/tracing/troubleshooting.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.309819",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/tracing/usage-guide.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "1.0.1",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-09T06:09:48.311925",
-      "Description": "文档modified"
-    },
     {
       "FilePath": "docs-version-report.md",
       "OldVersion": "1.0.38",
@@ -3709,7 +3581,15 @@
       "ChangeType": "MODIFIED",
       "Timestamp": "2026-09-06T06:41:59.866466",
       "Description": "文档modified"
+    },
+    {
+      "FilePath": "docs-version-report.md",
+      "OldVersion": "1.0.119",
+      "NewVersion": "1.0.120",
+      "ChangeType": "MODIFIED",
+      "Timestamp": "2026-09-07T06:50:34.193956",
+      "Description": "文档modified"
     }
   ],
-  "last_updated": "2026-09-06T06:42:01.617045"
+  "last_updated": "2026-09-07T06:50:35.794674"
 }
