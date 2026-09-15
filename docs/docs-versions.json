@@ -1936,10 +1936,10 @@
     },
     "docs-version-report.md": {
       "FilePath": "docs-version-report.md",
-      "Version": "1.0.127",
-      "LastModified": "2026-09-14T07:23:43.568346",
-      "ContentHash": "ae3f39a1fc8b2125",
-      "GitCommit": "89adc5d4",
+      "Version": "1.0.128",
+      "LastModified": "2026-09-15T07:00:17.139332",
+      "ContentHash": "988cca8864a366d8",
+      "GitCommit": "30ecce71",
       "Author": "GitHub Action",
       "ChangeSummary": "",
       "Dependencies": []
@@ -2006,94 +2006,6 @@
     }
   },
   "changes": [
-    {
-      "FilePath": "docs-version-report.md",
-      "OldVersion": "1.0.44",
-      "NewVersion": "1.0.45",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-16T07:27:18.203122",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/tracing/index.md",
-      "OldVersion": "1.0.2",
-      "NewVersion": "1.0.3",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-16T07:27:18.369270",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/tracing/operations-guide.md",
-      "OldVersion": "1.0.2",
-      "NewVersion": "1.0.3",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-16T07:27:18.371637",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/tracing/quickstart.md",
-      "OldVersion": "1.0.2",
-      "NewVersion": "1.0.3",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-16T07:27:18.376531",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/tracing/usage-guide.md",
-      "OldVersion": "1.0.2",
-      "NewVersion": "1.0.3",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-16T07:27:18.381482",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/tracing/index.md",
-      "OldVersion": "1.0.2",
-      "NewVersion": "1.0.3",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-16T07:27:18.560752",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/tracing/operations-guide.md",
-      "OldVersion": "1.0.2",
-      "NewVersion": "1.0.3",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-16T07:27:18.563054",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/tracing/quickstart.md",
-      "OldVersion": "1.0.2",
-      "NewVersion": "1.0.3",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-16T07:27:18.567849",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/tracing/usage-guide.md",
-      "OldVersion": "1.0.2",
-      "NewVersion": "1.0.3",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-16T07:27:18.572669",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/tracing/developer-guide.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "",
-      "ChangeType": "DELETED",
-      "Timestamp": "2026-06-16T07:27:18.585638",
-      "Description": "文档已删除"
-    },
-    {
-      "FilePath": "docs/zh/tracing/developer-guide.md",
-      "OldVersion": "1.0.0",
-      "NewVersion": "",
-      "ChangeType": "DELETED",
-      "Timestamp": "2026-06-16T07:27:18.585665",
-      "Description": "文档已删除"
-    },
     {
       "FilePath": "docs-version-report.md",
       "OldVersion": "1.0.45",
@@ -3197,7 +3109,15 @@
       "ChangeType": "MODIFIED",
       "Timestamp": "2026-09-14T07:23:43.568356",
       "Description": "文档modified"
+    },
+    {
+      "FilePath": "docs-version-report.md",
+      "OldVersion": "1.0.127",
+      "NewVersion": "1.0.128",
+      "ChangeType": "MODIFIED",
+      "Timestamp": "2026-09-15T07:00:17.139340",
+      "Description": "文档modified"
     }
   ],
-  "last_updated": "2026-09-14T07:23:45.324551"
+  "last_updated": "2026-09-15T07:00:18.620130"
 }
