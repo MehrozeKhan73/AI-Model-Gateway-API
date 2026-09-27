@@ -1936,10 +1936,10 @@
     },
     "docs-version-report.md": {
       "FilePath": "docs-version-report.md",
-      "Version": "1.0.139",
-      "LastModified": "2026-09-26T06:54:32.792994",
-      "ContentHash": "eb5484006c35049d",
-      "GitCommit": "09ecd5fb",
+      "Version": "1.0.140",
+      "LastModified": "2026-09-27T07:23:40.417673",
+      "ContentHash": "99481e393b7fbf68",
+      "GitCommit": "418a5e16",
       "Author": "GitHub Action",
       "ChangeSummary": "",
       "Dependencies": []
@@ -2006,38 +2006,6 @@
     }
   },
   "changes": [
-    {
-      "FilePath": "README-ZH.md",
-      "OldVersion": "1.0.8",
-      "NewVersion": "1.0.9",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-29T06:48:15.825885",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "README.md",
-      "OldVersion": "1.0.16",
-      "NewVersion": "1.0.17",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-29T06:48:15.828025",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs-version-report.md",
-      "OldVersion": "1.0.57",
-      "NewVersion": "1.0.58",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-06-29T06:48:15.830325",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "repository-description.md",
-      "OldVersion": "",
-      "NewVersion": "1.0.0",
-      "ChangeType": "CREATED",
-      "Timestamp": "2026-06-29T06:48:16.242392",
-      "Description": "文档created"
-    },
     {
       "FilePath": "docs-version-report.md",
       "OldVersion": "1.0.58",
@@ -3053,7 +3021,15 @@
       "ChangeType": "MODIFIED",
       "Timestamp": "2026-09-26T06:54:32.793001",
       "Description": "文档modified"
+    },
+    {
+      "FilePath": "docs-version-report.md",
+      "OldVersion": "1.0.139",
+      "NewVersion": "1.0.140",
+      "ChangeType": "MODIFIED",
+      "Timestamp": "2026-09-27T07:23:40.417681",
+      "Description": "文档modified"
     }
   ],
-  "last_updated": "2026-09-26T06:54:38.113114"
+  "last_updated": "2026-09-27T07:23:45.759197"
 }
