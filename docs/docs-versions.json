@@ -1936,10 +1936,10 @@
     },
     "docs-version-report.md": {
       "FilePath": "docs-version-report.md",
-      "Version": "1.0.158",
-      "LastModified": "2026-10-15T06:46:54.912694",
-      "ContentHash": "617e0e5ac7525b49",
-      "GitCommit": "61e65f39",
+      "Version": "1.0.159",
+      "LastModified": "2026-10-16T06:35:58.686414",
+      "ContentHash": "fdae4f9345ce74de",
+      "GitCommit": "9d13b018",
       "Author": "GitHub Action",
       "ChangeSummary": "",
       "Dependencies": []
@@ -2006,54 +2006,6 @@
     }
   },
   "changes": [
-    {
-      "FilePath": "README-ZH.md",
-      "OldVersion": "1.0.11",
-      "NewVersion": "1.0.12",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-07-18T04:48:48.291391",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "README.md",
-      "OldVersion": "1.0.19",
-      "NewVersion": "1.0.20",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-07-18T04:48:48.293552",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs-version-report.md",
-      "OldVersion": "1.0.76",
-      "NewVersion": "1.0.77",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-07-18T04:48:48.295800",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/en/reference/roadmap.md",
-      "OldVersion": "1.0.7",
-      "NewVersion": "1.0.8",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-07-18T04:48:48.463877",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/configuration/validation-rules.md",
-      "OldVersion": "1.0.2",
-      "NewVersion": "1.0.3",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-07-18T04:48:48.571400",
-      "Description": "文档modified"
-    },
-    {
-      "FilePath": "docs/zh/reference/roadmap.md",
-      "OldVersion": "1.0.7",
-      "NewVersion": "1.0.8",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-07-18T04:48:48.688771",
-      "Description": "文档modified"
-    },
     {
       "FilePath": "docs-version-report.md",
       "OldVersion": "1.0.77",
@@ -2701,7 +2653,15 @@
       "ChangeType": "MODIFIED",
       "Timestamp": "2026-10-15T06:46:54.912701",
       "Description": "文档modified"
+    },
+    {
+      "FilePath": "docs-version-report.md",
+      "OldVersion": "1.0.158",
+      "NewVersion": "1.0.159",
+      "ChangeType": "MODIFIED",
+      "Timestamp": "2026-10-16T06:35:58.686423",
+      "Description": "文档modified"
     }
   ],
-  "last_updated": "2026-10-15T06:47:00.276754"
+  "last_updated": "2026-10-16T06:36:04.187221"
 }
